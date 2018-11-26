@@ -1,4 +1,4 @@
-# WebdriverIO_Typescript 292d93021f919d5233c1a52c9e30c806b61892c3
+# WebdriverIO_Typescript 
 This directory contain's the WebdriverIO page object example written using TypeScript. The usefullness of the page object pattern is discussed on the [WebdriverIO website](http://webdriver.io/guide/testrunner/pageobjects.html).
 
 ## Getting Started
