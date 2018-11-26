@@ -1,0 +1,31 @@
+[ {
+  "uid" : "494f2a7cfb7ada42",
+  "name" : "should allow access with correct creds",
+  "time" : {
+    "start" : 1542881172930,
+    "stop" : 1542881174392,
+    "duration" : 1462
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ce2bf0e05274e25",
+  "name" : "should return home page",
+  "time" : {
+    "start" : 1542881165750,
+    "stop" : 1542881165761,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1663867d23cca940",
+  "name" : "should deny access with wrong creds",
+  "time" : {
+    "start" : 1542881165668,
+    "stop" : 1542881172929,
+    "duration" : 7261
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,49 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "login form",
+    "children" : [ {
+      "name" : "should deny access with wrong creds",
+      "uid" : "1663867d23cca940",
+      "parentUid" : "838432d8bf8399e4ba2abe4203941a69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542881165668,
+        "stop" : 1542881172929,
+        "duration" : 7261
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "should allow access with correct creds",
+      "uid" : "494f2a7cfb7ada42",
+      "parentUid" : "838432d8bf8399e4ba2abe4203941a69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542881172930,
+        "stop" : 1542881174392,
+        "duration" : 1462
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "838432d8bf8399e4ba2abe4203941a69"
+  }, {
+    "name" : "SAMPLE unit test",
+    "children" : [ {
+      "name" : "should return home page",
+      "uid" : "4ce2bf0e05274e25",
+      "parentUid" : "a4d96031337bcb38a7b10bdbbed0dd58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542881165750,
+        "stop" : 1542881165761,
+        "duration" : 11
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "a4d96031337bcb38a7b10bdbbed0dd58"
+  } ]
+}

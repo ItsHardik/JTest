@@ -1,0 +1,65 @@
+{
+  "uid" : "1663867d23cca940",
+  "name" : "should deny access with wrong creds",
+  "fullName" : "login form.should deny access with wrong creds",
+  "historyId" : "fb62a978d3ebcf6e101088812c10bf85",
+  "time" : {
+    "start" : 1542881165668,
+    "stop" : 1542881172929,
+    "duration" : 7261
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "login form"
+  }, {
+    "name" : "testClass",
+    "value" : "login form"
+  }, {
+    "name" : "testMethod",
+    "value" : "should deny access with wrong creds"
+  }, {
+    "name" : "package",
+    "value" : "login form"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "92a6ef28a1f3da81",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542872774296,
+        "stop" : 1542872779074,
+        "duration" : 4778
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1663867d23cca940.json",
+  "parameterValues" : [ "chrome" ]
+}

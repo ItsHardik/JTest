@@ -1,0 +1,30 @@
+{
+  "name": "webdriver_typescript",
+  "version": "1.0.0",
+  "description": "A Framework using WebdriverIO with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/typescript/lib/tsc.js && node ./node_modules/webdriverio/bin/wdio && node ./node_modules/rimraf/bin.js src"
+  },
+  "keywords": [
+    "Selenium",
+    "Mocha",
+    "WebdriverIO"
+  ],
+  "author": "Hardik Verma",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chai": "^3.4.34",
+    "@types/mocha": "^2.2.32",
+    "@types/webdriverio": "^4.4.0",
+    "chai": "^3.5.0",
+    "rimraf": "^2.5.4",
+    "should": "^13.2.3",
+    "supertest": "^3.3.0",
+    "typescript": "^2.0.6",
+    "wdio-allure-reporter": "^0.8.3",
+    "wdio-mocha-framework": "^0.5.7",
+    "wdio-selenium-standalone-service": "0.0.11",
+    "webdriverio": "^4.5.0"
+  }
+}

@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","login form.should allow access with correct creds","1462",""
+"passed","SAMPLE unit test.should return home page","11",""
+"passed","login form.should deny access with wrong creds","7261",""
