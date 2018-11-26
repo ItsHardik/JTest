@@ -1,9 +1,9 @@
 # WebdriverIO_Typescript
-This directorey contains the WebdriverIO page object example written using TypeScript. The usefullness of the page object pattern is discussed on the [WebdriverIO website](http://webdriver.io/guide/testrunner/pageobjects.html).
+This directory contains the WebdriverIO page object example written using TypeScript. The usefullness of the page object pattern is discussed on the [WebdriverIO website](http://webdriver.io/guide/testrunner/pageobjects.html).
 
 ## Getting Started
 ```
-git clone git@github.com:WillLuce/WebdriverIO_Typescript.git
+git clone ""
 cd WebdriverIO_Typescript
 npm install
 npm test
